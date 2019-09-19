@@ -13,50 +13,51 @@ sidebar:
 
     # Sidebar links
     email: ramukivars@yahoo.co.in
+<<<<<<< HEAD
     phone: 3016758981
 
     languages:
       - idiom: English
         level: Professional
+=======
+    phone: 301 675 8981
+    
+
+    languages:
+      - idiom: English
+        
+
+>>>>>>> 9f3f9e4d2c93d7551cf5972a25ce049fe5e21c81
 career-profile:
     title: Career Profile
     summary: |
       - Currently working in Apple Inc. Sunnyvale, as Senior DevOps Engineer.
+<<<<<<< HEAD
       - Very Strong hands on Experience with Linux
+=======
+      - Very Strong hands on Experience with Linux.
+>>>>>>> 9f3f9e4d2c93d7551cf5972a25ce049fe5e21c81
       - Extensive experience in scripting, primarily with Shell. Ansible, puppet and Python
       - Worked across various flavors of Unix (Sun Solaris, IBM AIX, and HP/UX) and Linux (RedHat ,CentOS, Oracle Enterprise, Debian, Ubuntu, and SuSe). Also have very good experience working in Windows Server environments through 2012 R2
       - Security experience includes fixing Security vulnerabilities like disabling Directory Browsing, ETag Headers, disabling Trace, and SSL RC4 Cipher Suite (POODLE Padding Oracle On Downgraded Legacy Encryption vulnerability) in Apache. I have also audited and fixed security vulnerabilities in Linux and Unix
       - Very much interested in the Unix Admin/DevOps/Security/ Cloud role because I feel it is a great fit for my background
       - I am available for a phone with or onsite interview with 1-2 days’ notice
       - I can start immediately.
+<<<<<<< HEAD
       - I live in San Jose and can attend an onsite interview
+=======
+      - I live in San Jose and can attend an onsite interview.      
+>>>>>>> 9f3f9e4d2c93d7551cf5972a25ce049fe5e21c81
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B.Tech Electronics
+      university: Madras Institute of Technology
+      
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    
+        
 
 experiences:
     - role: Lead Developer
