@@ -7,55 +7,29 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ravi Kumar Subramania Rao
+    tagline: Senior DevOps Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: ramukivars@yahoo.co.in
+    phone: 3016758981
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
-      Currently working in Apple Inc. Sunnyvale, as Senior DevOps Engineer.
-      Very Strong hands on Experience with Linux
-      Extensive experience in scripting, primarily with Shell. Ansible, puppet and Python
-      Worked across various flavors of Unix (Sun Solaris, IBM AIX, and HP/UX) and Linux (RedHat ,CentOS, Oracle Enterprise, Debian, Ubuntu, and SuSe). Also have very good experience working in Windows Server environments through 2012 R2
-      Security experience includes fixing Security vulnerabilities like disabling Directory Browsing, ETag Headers, disabling Trace, and SSL RC4 Cipher Suite (POODLE Padding Oracle On Downgraded Legacy Encryption vulnerability) in Apache. I have also audited and fixed security vulnerabilities in Linux and Unix
-      Very much interested in the Unix Admin/DevOps/Security/ Cloud role because I feel it is a great fit for my background
-      I am available for a phone with or onsite interview with 1-2 days’ notice
-      I can start immediately.
-      I live in San Jose and can attend an onsite interview
+      - Currently working in Apple Inc. Sunnyvale, as Senior DevOps Engineer.
+      - Very Strong hands on Experience with Linux
+      - Extensive experience in scripting, primarily with Shell. Ansible, puppet and Python
+      - Worked across various flavors of Unix (Sun Solaris, IBM AIX, and HP/UX) and Linux (RedHat ,CentOS, Oracle Enterprise, Debian, Ubuntu, and SuSe). Also have very good experience working in Windows Server environments through 2012 R2
+      - Security experience includes fixing Security vulnerabilities like disabling Directory Browsing, ETag Headers, disabling Trace, and SSL RC4 Cipher Suite (POODLE Padding Oracle On Downgraded Legacy Encryption vulnerability) in Apache. I have also audited and fixed security vulnerabilities in Linux and Unix
+      - Very much interested in the Unix Admin/DevOps/Security/ Cloud role because I feel it is a great fit for my background
+      - I am available for a phone with or onsite interview with 1-2 days’ notice
+      - I can start immediately.
+      - I live in San Jose and can attend an onsite interview
 
 education:
     - degree: MSc in Computer Science
