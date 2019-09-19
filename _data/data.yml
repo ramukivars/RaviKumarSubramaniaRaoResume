@@ -47,13 +47,15 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Currently working in Apple Inc. Sunnyvale, as Senior DevOps Engineer.
+      Very Strong hands on Experience with Linux
+      Extensive experience in scripting, primarily with Shell. Ansible, puppet and Python
+      Worked across various flavors of Unix (Sun Solaris, IBM AIX, and HP/UX) and Linux (RedHat ,CentOS, Oracle Enterprise, Debian, Ubuntu, and SuSe). Also have very good experience working in Windows Server environments through 2012 R2
+      Security experience includes fixing Security vulnerabilities like disabling Directory Browsing, ETag Headers, disabling Trace, and SSL RC4 Cipher Suite (POODLE Padding Oracle On Downgraded Legacy Encryption vulnerability) in Apache. I have also audited and fixed security vulnerabilities in Linux and Unix
+      Very much interested in the Unix Admin/DevOps/Security/ Cloud role because I feel it is a great fit for my background
+      I am available for a phone with or onsite interview with 1-2 days’ notice
+      I can start immediately.
+      I live in San Jose and can attend an onsite interview
 
 education:
     - degree: MSc in Computer Science
