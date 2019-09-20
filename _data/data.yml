@@ -13,165 +13,223 @@ sidebar:
 
     # Sidebar links
     email: ramukivars@yahoo.co.in
-<<<<<<< HEAD
-    phone: 3016758981
+    phone: 301 6758981
 
     languages:
       - idiom: English
         level: Professional
-=======
-    phone: 301 675 8981
-    
 
-    languages:
-      - idiom: English
-        
-
->>>>>>> 9f3f9e4d2c93d7551cf5972a25ce049fe5e21c81
 career-profile:
     title: Career Profile
     summary: |
       - Currently working in Apple Inc. Sunnyvale, as Senior DevOps Engineer.
-<<<<<<< HEAD
       - Very Strong hands on Experience with Linux
-=======
       - Very Strong hands on Experience with Linux.
->>>>>>> 9f3f9e4d2c93d7551cf5972a25ce049fe5e21c81
       - Extensive experience in scripting, primarily with Shell. Ansible, puppet and Python
       - Worked across various flavors of Unix (Sun Solaris, IBM AIX, and HP/UX) and Linux (RedHat ,CentOS, Oracle Enterprise, Debian, Ubuntu, and SuSe). Also have very good experience working in Windows Server environments through 2012 R2
       - Security experience includes fixing Security vulnerabilities like disabling Directory Browsing, ETag Headers, disabling Trace, and SSL RC4 Cipher Suite (POODLE Padding Oracle On Downgraded Legacy Encryption vulnerability) in Apache. I have also audited and fixed security vulnerabilities in Linux and Unix
       - Very much interested in the Unix Admin/DevOps/Security/ Cloud role because I feel it is a great fit for my background
       - I am available for a phone with or onsite interview with 1-2 days’ notice
       - I can start immediately.
-<<<<<<< HEAD
       - I live in San Jose and can attend an onsite interview
-=======
       - I live in San Jose and can attend an onsite interview.      
->>>>>>> 9f3f9e4d2c93d7551cf5972a25ce049fe5e21c81
+
+    title: SUMMARY OF QUALIFICATIONS
+    summary: |
+      - Hands on Experience with AWS - IAM, S3, EC2, RDS, Elastic Load Balancer, Linux, Windows, Netapp Hybrid Private Cloud, Shell Scripting, Ansible, Puppet, Python, Dockers, VMWare, Netapp  CDot Storage
+      - Provisioned AWS EC2 instances Linux and Windows
+      - Automation on the Provisioning of AWS EC2 Instances Using 3 Methods (1) with Ansible and Ansible Playbook AWS Modules, (2) Using  AWS CLI Tools (3) AWS Cloud Formation Tool and (4) Terraform
+      - Automation of Patching using Ansible, so that the VIP is always available, no down time of the VIP, after patching, the Servers will go down Sequentially and it is rebooted to apply Patches.
+      - Using Single Docker Compose File, built Flask NGINX Application in docker-compose, docker swarm, docker Format Kubernetes, Kubernetes.
+      - Supported Servers 24x7
+
+    title: Certifications
+    summary: |
+      - Certification in Cloud Computing AWS-1
+      - Certification on RedHat Openshift with dockers and kubernetics
+
+    title: Achievements
+    summary: |
+      - Automation of Patching the Linux VMs using Ansible. ( in Apple  Inc)
+      - Hardening and fixing vulnerabilities of Hosts using Ansible ( in eBay Inc)
+      - Identified and fixed the Network issue using strace Debugging Tool ( in eBay Inc)
+      - Debugged the Sun Solaris slowness issue by using the Commands prstat -Z, prstat -Lm pid, jmap -dump and jvisualvm to analyze the dump File and identified a Java Process was having Memory Leak ( NetApp Inc )
+      - Resolved issues of File system mounts as there was some error with /etc/vfstab while booting and on another occasion global.db was corrupted and it has to be re-built ( State Street Bank )
+      - Identified the Server crashing issue and fixed ( in Sanofi Aventis )
+      - Resolved ssh trust problem.Parent directory should be 755 not 775 ( in CVS Pero Systems Inc )
 
 education:
     - degree: B.Tech Electronics
       university: Madras Institute of Technology
-      
       details: |
-        
-
-    
-        
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Tech Lead / Senior Devops Engineer
+      time: June 2017 till Date
+      company: Apple Inc, Sunnyvale, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - Automation of Patching using Ansible, so that the VIP is always available, no down time of the VIP, after patching, the Server will go down and it is rebooted to apply Patches.
+          - Little Description about the Automation of Patching
+          - Using Java and the Nitro API get all the VIPs Data in a CSV File, Give VIP Name as Input, then the  Shell Script gathers, Servers, the sudo Application User, Java Process that is running, etc, and each Server is patched Sequentially, and when it reboots starts the Java Process, so that the VIP is always available to be accessed by the Users and there is no downtime of the Application for the Users.
+          - In Simple Terms, the Hosts under the VIP will be patched and rebooted in a Rolling Manner, so that the VIP is always up and always ready to serve.
+          - Written Ansible and Shell Scripts to validate the Bulk ACLs ( Security Firewalll Openings).
+          - Scripted to know the VIPs TLS 1.2 Certificate issuer, Validity, Response Time of the VIP access
+          - Analyze Qualys Reports and fixed vulnerabilities.
+          - Fixing JDWP ( Java Debug Wire Protocol ) vulnerability- JDWP is used to remotely debug Java Virtual Machines over TCP/IP, which does not use Authentication or Encryption.
+          - Fixing Meltdown Spectre vulnerability 
+          - Fixing NFS2 and NFS3 and Apache HTTP Proxy Server vulnerability and Redis vulnerability as per ZeroCool Recommendations.
+          - Configured VIPs in Netscalar using Shell Scripts for Jetty/Apache/WebLogic Hosting.
+          - Provisioned VMs in Apple openstack Cloud
+          - Configured Apache, PHP, WebLogic, Java. Oracle Client 12C 1.0.2, mysql, erlang and rabbitmq
+          - Automation using Ansible to install Java, Hosts Certificates, Anaconda Python.
+          - From the VIP Certificates API worked with Python to get Expiration Dates.
+          - Experience with dockers, docker-compose, Kubernetes, Docker Enterprise Version Stack/Kubernetes, Swarm 
+          - Using Single Docker Compose File, built Flask NGINX Application in docker-compose, docker swarm, docker Format Kubernetes, Kubernetes
+          - Supported 24 x 7
+          - Excellent at making Documentation.
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Security Analytics Engineer
+      time: Nov 2016 – May 2017
+      company: eBay Inc, San Jose, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Analyzed the Qualys Scan Reports for vulnerabilities and fixing.
+          - Written Ansible YML Scripts to harden the Servers according to the eBay recommended Security Rules.
+          - Fixing vulnerabilities by patching the ETL Servers and Hadoop Cluster Nodes, through Ansible Scripts. 
+          - Iptables implementation.
+          - Written bash Shell Scripts to deploy Network Kernel bonding Modules across all ETL Servers, Network bonding Configuration and sssd chkconfig, deploy Repos Files for Patching.
+          - Given support to the ETL, Hadoop, Teradata Infrastructure and fixing the issues.
+          - Written shell Script to validate the hardening of the Servers.
+          - Identified and fixed the Network issue using strace Debugging Tool.
+          - Reverse Proxy for Sites with TLS 1.2 Cerificates.
+          - Configured LDAP with sssd+TLS and troubleshooted LDAP Clients issue and fixed the issue.
+          - Worked on Puppet to maintain 6 Files for Configuration Standard. 
+          - Worked on Kanban (Scrum) (Agile) for Project Tracking.
+          - Excellent at making Documentation.
+          - Presentation to China Team on Patching and hardening the Linux Servers
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Senior Linux Systems Engineer
+      time: Aug 2016 – Sept 2016
+      company: Crescendo Bioscience, San Francisco, CA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Built VMs Linux 6.X and 7.2 VMs and Windows 2012 R2 VMs on VMWare 6.0, taking snapshots of the VMs, reacting to the Alarms.
+          - Built a DR VMWare vCenter Site, configured Replication Appliances on both the Sites and replicating the VM to the DR Site.
+          - Prepared the Document to install Site Recovery Manager to implement DR Solution.
+          - Configured Storage on Netapp Filers and set up Snap Mirror between 2 Sites.
+          - Installed and administered the OpenDJ LDAP Server and Linux Clients and Users.
+          - Configured Nagios Monitoring and added Services for monitoring SSL Certificates and configured Linux NRPE Clients and NSClient++ on Windows Servers.
+          - Configured and published the New Patches on RedHat Satellite Server 6.2 and patched all the Linux Servers.
 
-          - Bullet point
-          - Bullet point
+    - role: Senior Domain Architect Unix/Linux/Cloud Platform Engineer
+      time: April 2013 – April 2016
+      company: NetApp INC, Sunnyvale, CA
+      details: |
+          - Design, Installation, Delivery and Support
+          - Interact with different Business Units/Project Teams and fulfill their Requirements, instill Confidence in them, by acting like a Single point of contact and managing the complete Project Life Cycle.
+          - 24 x 7 Support.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+          - Cloud 
+          - Worked on Cloud Auto Provisioning VMs using ITApp Cloud Management Platform Orchestration Tool on to (1) AWS Cloud Platform and (2) Netapp Hybrid Private Cloud and (3) Century Links Cloud Platform.
+          - Migrated Servers from the (1) Sacramento, California Data Center to (2) Hillsboro, Oregon Data Center and (3) Research Triangle Park, North Carolina, Data Center.
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+          - Automation and DevOps
+          - Provisioned AWS EC2 instances Linux and Windows
+          - Used Ansible Tool to automate the provisioning of AWS EC2 instance.
+          - Used AWS CLI Tool to automate the provisioning of AWS EC2 instance
+          - Deployed post build Tasks using Bash Shell Scripts and Ansible playbooks 1.9.4 across Multiple Servers.
+          - Wrote Python Scripts to parse the Log File and generating Dash Board Report.
+          - Worked with puppet to deploy package, File and Services.
+          - Provisioned Containers/Dockers in Linux, and provisioned Dockers using Ansible.
+          - Deployed /installed VMs Redhat and Cent OS Linux 6.5, 7, Ubuntu 14.04 and Windows 2008 R2 SP1/2012 R2, SuSe Linux 11.2 on the ESX VMWare Servers and in the OpenStack Hybrid Netapp Cloud, using the HP Operation Orchestration Tool.
+          - Installed Linux and Windows on Physical Servers Sun Solaris Non-Global Zones and IBM AIX.
+          - Installed Appliances, Storage Grid Appliances using OVF (Open Virtualisation Format) Files, VMDK & VMX Files.
+          - Created Non-Global zones on the Sun Solaris Servers M4000/M5000.
+          - Supported VMware Virtual Servers with VCenter 5.X.
+          - Experience with V2V through VMware VSphere Replication.
+          - Installed Oracle RAC 11G R2.
+          - Installed and configured Cloudera Hadoop Clusters on Fujitsu Primergy 200X S8/300X Servers-Hadoop Version 2.0.0-CDH4.6.0 by provisioning XFS File Systems for storage and creating users cloudera-scm, solr, impala, zookeeper, mapred, hdfs, flume, hive, hadoop, hbase and yarn.
+          - Provisioned VMs for SAP HANA Application Project and supported it.
+          
+          -  Support
+          - Set up Apache Web Servers with F5 Load Balancer, and Application Servers, WebLogic and Tomcat with Oracle Database, Oracle RAC Database, mysql Databae.
+          - Used Performance Analysis using ab, apachetop, and tuned the Parameters.
+          - Set Resource Kernel Parameters.
+          - Set sudo Permissions.
+          - Configured sudo log.
+          - Registered Servers with RedHat using rhn_register command and checking with rhn_check Command. 
+          - Upgraded Linux with yum Utility and rolled back using the Boot Time grub Menu, and also rolled back using yum info history and yum undo.
+          - Enabled Subscription for EPEL (Extra Packages for Enterprise Linux) and Optional RPMS Packages to install MESA 3D Graphics Library and Large File System XFS Packages uSAsing rhn-channel Command.
+          - Configured Virtual Network Interface Cards with redundancy bonding Network Cards.
+          - Configured Disks, expand Capacity of the Disks and File Systems using Linux LVM, fdisk, pvcreate, vgcreate/ vgextend, lvextend, resize2fs, pvresize.
+          - Installed and configured multipath/Device Mapper for LUNs and Storage Disks.
+          - Detected New LUNs using issue_lip ( Loop initialization Protocol ) and scan, fdisk, multipath.
+          - Configured Passwordless login to the Users between Servers.
+          - Installed other Software’s /Upgrade Software’s through yum and registering for Special RedHat Channels through Command Lines.
+          - Configured Apache 2.2.* and installed and configured WebLogic 10.3.6.
+          - Configured mysql on Linux Servers.
+          - Installed GPG (GnuPG) 1.4.10 on Sun Solaris Systems.
+          - Set Capped Memory on the Non-Global Zones.
+          - Set ndd tcp and udp Parameters of anon_ports 9000 and 65500 (smallest and largest) for Oracle 11G.
+          - Setup X-Windows and TightVNC Service.
+          - Used curl Command to upload the Files to Oracle Site.
+          - Configured a Printer Server on Sun Solaris Non-Global Zone
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+          - Resolved problems
+          - Fixed Security vulnerabilities like disabling Directory Browsing, ETag Headers, disabling Trace, SSL RC4 Cipher Suite ( POODLE Padding Oracle On Downgraded Legacy Encryption vulnerability) in Apache.
+          - Fixed Shell Shock ( 24 September 2014 ) Virus.
+          - Resolved problems of the User login due to Maximum Number of Processes and connections-found using ps -U Username | wc -l  and lsof | grep Username | wc -l and increasing the ulimit nproc and nofile Parameters.
+          - Resolved ssh login issues of various categories of various Reasons.
+          - Resolved the issue of oracle Volumes not mounting-Fixed this issue with specifying mount option “suid” and setting set user id and ownership as root on $ORACLE_HOME/bin/oradism.
+          - Resolved  the issue of oracle not coming up by setting the SGA Parameter 1/4th Size of the total Memory, by setting up the shm-memory Parameter in /etc/project and using prctl command
+          - Resolved the issue of Sun Solaris Server not coming up by starting the Dependency Services.
+          - Resolved vip Interface issue with Oracle RAC using srvctl.
+          - Resolved a program error in Perl by defining the right Path for Modules.
+          - Resolved the libz.so.1 64 Bit and 32 Bit File not found error by including the right Path for the Files in LD_LIBRARAY _PATH in the User’s Profile.
+          - Wrote Shell Script to diagnose ports opened for TCP Services using netcat command and verifying the Load Balance Implementation using curl Commands.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+          - Performance 
+          - Resolved the Network issue when sftp to put the Files was very slow, by identifying the MTU Size is the issue with the command ifconfig eth2 mtu 1500 up -SCP Transfer completed successfully. After test we changed it to ifconfig eth2 mtu 9000 up and the transfer failed again.
+          - Resolved the critical Packet Drop issue on the Ethernet Card.
+          - Debugged the Sun Solaris slowness issue by using the Commands prstat -Z, prstat -Lm pid, jmap -dump and jvisualvm to analyze the dump File and identified a Java Process was having Memory Leak
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title:
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title:
+        authors:
+        conference:
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title:
+        authors:
+        conference:
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title:
+        authors:
+        conference:
 
 skills:
-    title: Skills &amp; Proficiency
+    title: &amp;
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name:
+        level:
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name:
+        level:
 
-      - name: Angular
-        level: 98%
+      - name:
+        level:
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name:
+        level:
 
-      - name: Ruby on Rails
-        level: 85%
+      - name:
+        level:
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name:
+        level:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
